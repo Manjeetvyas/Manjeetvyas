@@ -5,7 +5,9 @@
   <a href="https://www.linkedin.com/in/manjeetvyas2000" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/Location-India-blueviolet?style=for-the-badge" alt="Location Badge"/>
+  <a href="https://www.hackerrank.com/profile/approxmanjeet" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
 </p>
 
 ---
@@ -29,8 +31,16 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-#### **Infrastructure & DevOps**
+#### **Web Scraping & Automation**
 <p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-00599C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" />
+</p>
+
+#### **Cloud, Infrastructure & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -38,17 +48,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Contributions
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Manjeetvyas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1d1f21" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjeetvyas&layout=compact&theme=tokyonight&hide_border=true&bg_color=1d1f21" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manjeetvyas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1d1f21&count_private=true" />
 </p>
 
 ---
 
 ### 📈 Current Focus
 * Building end-to-end machine learning models and data pipelines.
-* Exploring advanced data analytics, web automation, and interactive web apps with Streamlit & FastAPI.
+* Exploring advanced data analytics, web scraping automation, and serverless architectures with AWS Lambda.
 
-⚡ **Let's connect:** Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/manjeetvyas2000) for collaboration or data science discussions!
+⚡ **Let's connect:** Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/manjeetvyas2000) or check out my problem-solving streak on [HackerRank](https://www.hackerrank.com/profile/approxmanjeet)!
